@@ -1,0 +1,26 @@
+{
+  "name": "Test",
+  "description": "Test",
+  "version": "0.0.0",
+  "main": [
+    "tag1.js"
+    ],
+  "scripts": {
+    "start": [
+    "node tag1.js"
+      
+      ]
+  },
+  "dependencies": {
+    "discord.js": "11.3.2",
+    "request": "2.81.0",
+    "ytdl-core": "0.20.4",
+    "simple-youtube-api": "5.0.2",
+    "ms": "2.1.1",
+    "moment": "2.22.2",
+    "opusscript": "0.0.6",
+    "canvas": "1.6.11",
+    "eris": "0.8.6",
+    "discord-anti-spam": "1.1.2"
+  }
+}
